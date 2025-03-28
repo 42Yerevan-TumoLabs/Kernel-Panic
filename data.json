@@ -1,0 +1,71 @@
+{
+    "house": "House-6",
+    "total_points": 58450,
+    "users": {
+      "arakhurs": {
+        "profile": "https://profile.intra.42.fr/users/arakhurs",
+        "points": 10646,
+        "roles": ["⚜️ Team Manager"],
+        "projects": {
+          "libft": true,
+          "gnl": true,
+          "ft_prinf": true,
+          "b2br": true,
+          "push_swap": true,
+          "pipex": true,
+          "minitalk": false,
+          "so_long": true,
+          "fdf": false,
+          "fract-ol": false,
+          "philosophers": true,
+          "minishell": true,
+          "netpractice": true,
+          "cub3d": true,
+          "miniRT": false,
+          "CPP M 00": true,
+          "CPP M 01": true,
+          "CPP M 02": true,
+          "CPP M 03": true,
+          "CPP M 04": true,
+          "CPP M 09": true,
+          "ft_transcendence": true,
+          "Piscine Django": true,
+          "Cloud-1": true,
+          "darkley": "🆚"
+        }
+      },
+      "arbaboom": {
+        "profile": "https://profile.intra.42.fr/users/arbaboom",
+        "points": 10626,
+        "roles": ["🗣Code Manager"],
+        "projects": {
+          "libft": true,
+          "gnl": true,
+          "ft_prinf": true,
+          "b2br": true,
+          "push_swap": true,
+          "pipex": false,
+          "minitalk": true,
+          "so_long": true,
+          "fdf": false,
+          "fract-ol": false,
+          "philosophers": true,
+          "minishell": true,
+          "netpractice": true,
+          "cub3d": true,
+          "miniRT": false,
+          "CPP M 00": true,
+          "CPP M 01": true,
+          "CPP M 02": true,
+          "CPP M 03": true,
+          "CPP M 04": true,
+          "CPP M 09": true,
+          "ft_transcendence": true,
+          "Piscine Django": false,
+          "Cloud-1": false,
+          "darkley": false
+        }
+      }
+    }
+  }
+  
