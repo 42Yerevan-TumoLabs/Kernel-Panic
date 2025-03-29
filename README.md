@@ -72,4 +72,4 @@
 | 📣 | Meeting |  |  |  |  |  |  | House-6 20:00 |  |  |  |  |  |  |  |
 | 📝 | Evaluations | kgalstya 1️⃣ |  |  |  | arakhurs 1️⃣ | arakhurs 1️⃣ |  |   |  |  |  |  |  |  |
 | 🌐 ✅ | Pj/Ex Success |  | apatvaka pipex |  |  | arbaboom DjP-00_0, 00_1 | arbaboom DjP-00_2 |  |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  | |
+| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
