@@ -52,18 +52,18 @@
 | Activity | Data | 03 | 04 | 05 | 06 | 07 | 08 | 09 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  | Opening ceremony |
-| 📝 | Evaluations | kgalstya 1️⃣ maavalya 1️⃣ | kgalstya 1️⃣ maavalya 2️⃣ | maavalya 1️⃣ | arakhurs 1️⃣ kgalstya 1️⃣ |  |  | ganersis 1️⃣ |
-| 🌐 ✅ | Pj/Ex Success | kgalstya CPP_00 |  | ganersis 2️⃣ | kgalstya CPP_01 | mamusaye Inception |  | ganersis so_long |
-| 🌐 ❌ | Pj/Ex Fails |  |  | kgalstya CPP_01 ganersis so_long |  |  |  | ganersis minitalk |
+| 📝 | Evaluations | kgalstya 1️⃣ maavalya 1️⃣ apatvaka 1️⃣ dgrigor2 1️⃣ vapoghos 1️⃣ asmkrtch 1️⃣ | kgalstya 1️⃣ maavalya 2️⃣ apatvaka 1️⃣ dgrigor2 1️⃣ | maavalya 1️⃣ ganersis 2️⃣ apatvaka 1️⃣ asmkrtch 1️⃣ | arakhurs 1️⃣ kgalstya 1️⃣ haaghaja 1️⃣ | vapoghos 1️⃣ | haaghaja 1️⃣ vcharchy 2️⃣ | ganersis 1️⃣ |
+| 🌐 ✅ | Pj/Ex Success | kgalstya CPP_00 msimonya libft |  | haaghaja b2br | kgalstya CPP_01 vapoghos b2br | mamusaye Inception apatvaka Ex02 vcharchy ft_printf|  | ganersis so_long |
+| 🌐 ❌ | Pj/Ex Fails |  |  | kgalstya CPP_01 ganersis so_long |  | haaghaja Ex02 |  | ganersis minitalk |
 
 ## Week 10.03-23.03
 
 | Activity | Data | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 📝 | Evaluations |  |  | kgalstya 2️⃣ | kgalstya 1️⃣ |  |  |  | kgalstya 1️⃣ | arakhurs 2️⃣ | kgalstya 3️⃣ maavalya 1️⃣ |  |  |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  | ganersis minitalk |  |  |  |  |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📝 | Evaluations | vapoghos 1️⃣ vcharchy 1️⃣ | apatvaka 1️⃣ | kgalstya 2️⃣ dgrigor2 1️⃣ vcharchy 1️⃣ | kgalstya 1️⃣ haaghaja 2️⃣ vapoghos 1️⃣ |  |  |  | kgalstya 1️⃣ | arakhurs 2️⃣ vapoghos 1️⃣ | kgalstya 3️⃣ maavalya 1️⃣ msimonya 1️⃣ | szakarya 2️⃣ | szakarya 1️⃣ | apatvaka 1️⃣ |  |
+| 🌐 ✅ | Pj/Ex Success |  |  | ganersis minitalk haaghaja Ex02 |  |  |  |  |  |  |  | dgrigor2 b2br szakarya gnl szakarya b2br | dgrigor2 Ex02 |  |  |
+| 🌐 ❌ | Pj/Ex Fails | dgrigor2 b2br |  |  | vapoghos ft_printf |  |  |  |  |  |  |  | szakarya Ex02 |  |  |
 
 ## Week 24.03-06.04
 
@@ -71,5 +71,5 @@
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  | House-6 20:00 |  |  |  |  |  |  |  |
 | 📝 | Evaluations | kgalstya 1️⃣ |  |  |  | arakhurs 1️⃣ | arakhurs 1️⃣ |  |   |  |  |  |  |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  |  |  | arbaboom DjP-00_0, 00_1 | arbaboom DjP-00_2 |  |  |  |  |  |  |  |  |
+| 🌐 ✅ | Pj/Ex Success |  | apatvaka pipex |  |  | arbaboom DjP-00_0, 00_1 | arbaboom DjP-00_2 |  |  |  |  |  |  |  |  |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  | |
