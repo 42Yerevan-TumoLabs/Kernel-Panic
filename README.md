@@ -3,6 +3,7 @@
 |  Nº  | Points | Project | [arakhurs](https://profile.intra.42.fr/users/arakhurs) | [arbaboom](https://profile.intra.42.fr/users/arbaboom) | [raghonya](https://profile.intra.42.fr/users/raghonya) | [mamusaye](https://profile.intra.42.fr/users/mamusaye) | [kgalstya](https://profile.intra.42.fr/users/kgalstya) | [maavalya](https://profile.intra.42.fr/users/maavalya) | [ganersis](https://profile.intra.42.fr/users/ganersis) | [apatvaka](https://profile.intra.42.fr/users/apatvaka) | [haaghaja](https://profile.intra.42.fr/users/haaghaja) | [dgrigor2](https://profile.intra.42.fr/users/dgrigor2) | [vapoghos](https://profile.intra.42.fr/users/vapoghos) | [szakarya](https://profile.intra.42.fr/users/szakarya) | [asmkrtch](https://profile.intra.42.fr/users/asmkrtch) | [vcharchy](https://profile.intra.42.fr/users/vcharchy) | [msimonya](https://profile.intra.42.fr/users/msimonya) |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | ⏰ | For | Hours per week | 35+ | 35+ | 0 | 0 | 30+ | 10+ | 5+ | 25+ | 10+ | 20+ | 20+ | 5+ | 5+ | 30+ | 5+ |
+| ⏰ | MAX | Deadline | outer | outer | ft_trans| ft_trans | ex06 | ex05+inc | ex04+net |  ex04|  ex04| ex04 | ex03+philo | ex03+philo | ex02+1porj | ex03 | ? |
 | 👔 | House | Roles | ⚜️ Team Manager | 🗣Code Manager | 😃 | 📣 Report Manager | 🗣Code Eval Manager | 😃 | 🗣Code Explain Manager | 😃 | 😃 | 📣 Communications Manager | 😃 | 😃 | 😃 | 😃 | 😃 |
 | 1 | 42 | libft | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 2 | 84 | gnl | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🆚 | 🌐 | 🌐 |
@@ -16,7 +17,7 @@
 | 7.2 | 242 | Fdf | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 7.3 | 242 | fract-ol | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 🚦 | 1042 | EX 03 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 8 | 342 | Philosophers | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
+| 8 | 342 | Philosophers | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐  | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 9 | 322 | minishell | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 🚦 | 1442 | EX 04 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 10 | 292 | NetPractice | ✅ | ✅ | ✅ | ✅ | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
@@ -33,7 +34,7 @@
 | 13.3 | 0 | CPP M 08 | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 13.4 | 422 | CPP M 09 | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 🚦 | 1842 | EX 05 | ❇️ | ❇️ | ❇️ | ❇️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 14 | 402 | Inseption | ✅ | ✅ | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
+| 14 | 402 | Inception | ✅ | ✅ | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 15.1 | 462 | webserv | ✅ | ❌ | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 15.2 | 442 | ft_irc | ❌ | ✅ | ❌ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 🚦 | 2048 | EX 06 | ❇️ | ❇️ | 🆚 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -73,3 +74,23 @@
 | 📝 | Evaluations | kgalstya 1️⃣ |  |  |  | arakhurs 1️⃣ | arakhurs 1️⃣ |  |   |  |  |  |  |  |  |
 | 🌐 ✅ | Pj/Ex Success |  | apatvaka pipex |  |  | arbaboom DjP-00_0, 00_1 | arbaboom DjP-00_2 |  |  |  |  |  |  |  |  |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## April
+| Name | Avilable | Unavilable |
+| :------: | :--------: | :-------------------------: |
+| arakhurs | ? | ? |
+| arbaboom | ? | ? |
+| raghonya | ? | ? |
+| mamusaye | ? | ? |
+| kgalstya | ✅ 13:00-22:00 | Firiday 50%, Saturday full |
+| maavalya | ✅ 14:00-19:00 | Exams till 05.04.2025 |
+| ganersis | ? AGBU | Exams till 02.04.2025 |
+| apatvaka | ✅ | Exams coming 2 weeks |
+| haaghaja | ✅ | Flex work |
+| dgrigor2 | ✅ | Exams coming 2 weeks |
+| vapoghos | ✅ | Saturday, Sunday |
+| szakarya | ✅ from 17:00, weekend full | Exams till 04.04 and 21.04-24.05(UFAR) IOT |
+| asmkrtch | ❌ | Diplom till May |
+| vcharchy | ✅ 11:00-16:00 | Saturday |
+| msimonya | ? | ? |
