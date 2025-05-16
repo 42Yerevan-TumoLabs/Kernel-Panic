@@ -6,7 +6,7 @@
 | ⏰ | MAX | Deadline | outer | outer | ft_trans| ft_trans | ex06 | ex05+inc | ex04+net |  ex04|  ex04| ex04 | ex03+philo | ex03+philo | ex02+1porj | ex03 | ? |
 | 👔 | House | Roles | ⚜️ Team Manager | 🗣Code Manager | 😃 | 📣 Report Manager | 🗣Code Eval Manager | 😃 | 🗣Code Explain Manager | 😃 | 😃 | 📣 Communications Manager | 😃 | 😃 | 😃 | 😃 | 😃 |
 | 1 | 42 | libft | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 2 | 84 | gnl | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🆚 |
+| 2 | 84 | gnl | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 3 | 84 | ft_prinf | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 4 | 126 | b2br | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🚦 | 842 | EX 02 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❌ |
@@ -42,10 +42,10 @@
 | 🏁 | 10646 | SUM | 11824+442 | 11804 | 11324 | 11304 | 6570+742 | 5128 | 3022 | 3022 | 1980+1568 | 1178+2042 | 1178 | 1178+442 | 1178 | 1178 | 252 |
 | 21 | 402 | Piscine Django | ✅ | 🆚 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 22 | ? | Cloud-1 | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 23 | 2284 - IoT ? | darkley | 🆚 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 23 | 442 | darkley | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 24 | 1642 | snow-crash | ✅ | ✅ |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 24 |  | IoT | 🆚 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 🏆 | Total | Outer | 13868 | 13446 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 24 | 1842 | IoT | 🆚 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🏆 | Total | Outer | 14310 | 13446 |  |  |  |  |  |  |  |  |  |  |  |  |
   |
 ### Total points for house - 83868
 Quiz - 2242
@@ -103,9 +103,9 @@ Game Day - 3668
 | Activity | Data | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 📝 | Evaluations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  |  |  |  | apatvaka Ex03 |  |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📝 | Evaluations |  |  |  |  | arbaboom 1️⃣ | apatvaka | arbaboom 1️⃣ | vapoghos 2️⃣ vcharchy 1️⃣ | kgalstya 1️⃣ apatvaka 1️⃣ dgrigor2 1️⃣ vapoghos 4️⃣ vcharchy 1️⃣| arbaboom 1️⃣ apatvaka 1️⃣ | asmkrtch 1️⃣ |  |  |  |
+| 🌐 ✅ | Pj/Ex Success | msimonya ft_printf | apatvaka so-long |  |  | arakhurs snow-crash | apatvaka Ex03 | ganersis Philo | maavalya cub3d dgrigor2 push-swap msimonya gnl |  | arakhurs darkly |  |  |  |  |
+| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  | vapoghos push-swap |  | arakhurs rainfall |  |  |  |
 
 
 ## May
